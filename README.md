@@ -2,7 +2,7 @@
 <h3 align="center">A student of technologies from Brazil</h3>
 
 - 👨‍💻 I’m currently working as a Quality Assurance
-- 🌱 I’m currently learning API Rest Test and PHP
+- 🌱 I’m currently learning Test automation with Cypress and PHP
 - 🤔 I’m looking for help to evolve with Development
 
 <h3 align="left">Connect with me:</h3>
