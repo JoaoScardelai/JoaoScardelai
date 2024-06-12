@@ -24,7 +24,7 @@
     <img align="center" alt="Joao-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
     <img align="center" alt="Joao-Postgresql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
     <img align="center" alt="Joao-GIT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-    <img align="center" alt="Joao-Cypress" height="30" width="40" src="https://iconduck.com/icons/635/cypress?shared">
+    <img align="center" alt="Joao-Cypress" height="30" width="40" src="https://www.svgrepo.com/show/353630/cypress.svg">
 </p>
 
 ##
