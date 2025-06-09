@@ -23,9 +23,11 @@
     <img align="center" alt="Joao-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
     <img align="center" alt="Joao-`PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
     <img align="center" alt="Joao-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+    <img align="center" alt="Joao-Typescript" height="30" width="40" src="https://www.svgrepo.com/show/439022/typescript.svg">
     <img align="center" alt="Joao-Postgresql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
     <img align="center" alt="Joao-GIT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
     <img align="center" alt="Joao-Cypress" height="30" width="40" src="https://www.svgrepo.com/show/353630/cypress.svg">
+    <img align="center" alt="Joao-Playwright" height="30" width="40" src="https://images.seeklogo.com/logo-png/43/1/playwright-logo-png_seeklogo-435674.png">
 </p>
 
 ##
