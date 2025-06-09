@@ -27,7 +27,7 @@
     <img align="center" alt="Joao-Postgresql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
     <img align="center" alt="Joao-GIT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
     <img align="center" alt="Joao-Cypress" height="30" width="40" src="https://www.svgrepo.com/show/353630/cypress.svg">
-    <img align="center" alt="Joao-Playwright" height="30" width="40" src="https://images.seeklogo.com/logo-png/43/1/playwright-logo-png_seeklogo-435674.png">
+    <img align="center" alt="Joao-Playwright" height="30" width="40" src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/2/playwright-y50bnthygb3rvsppvkm9e.png/playwright-q55xzpenhgjsodksybst.png?_a=DATAdtAAZAA0">
 </p>
 
 ##
