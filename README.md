@@ -27,7 +27,7 @@
     <img align="center" alt="Joao-Postgresql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
     <img align="center" alt="Joao-GIT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
     <img align="center" alt="Joao-Cypress" height="30" width="40" src="https://www.svgrepo.com/show/353630/cypress.svg">
-    <img align="center" alt="Joao-Playwright" height="30" width="40" src="https://brandfetch.com/playwright.dev?view=library&library=default&collection=logos&asset=idVX2ElrpI&utm_source=https%253A%252F%252Fbrandfetch.com%252Fplaywright.dev&utm_medium=copyAction&utm_campaign=brandPageReferral">
+    <img align="center" alt="Joao-Playwright" height="30" width="40" src="https://raw.githubusercontent.com/gist/UzaeirAzhar/a03851c32cfb9edbbb7fb55a318c3bd8/raw/a8ef57341f4efbc86544bc65d8c0f14387ceec9f/playwright_svg.svg">
 </p>
 
 ##
